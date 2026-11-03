@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=210&section=header&text=Lu%C3%ADs%20Torr%C3%A3o&fontSize=58&fontColor=ffffff&fontAlignY=40&animation=fadeIn" alt="header" width="100%" />
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=720&lines=Hi+%F0%9F%91%8B%2C+I'm+Lu%C3%ADs;Third-year+BSc+student+%40+FEUP;Informatics+and+Computing+Engineering;Curious+and+still+exploring;Always+learning+something+new" alt="Typing SVG" />
 
 <br/>
