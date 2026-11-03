@@ -1,14 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=210&section=header&text=Lu%C3%ADs%20Torr%C3%A3o&fontSize=58&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=AI%20%C2%B7%20Autonomous%20Systems%20%C2%B7%20Software%20Engineering&descSize=18&descAlignY=58" alt="header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=210&section=header&text=Lu%C3%ADs%20Torr%C3%A3o&fontSize=58&fontColor=ffffff&fontAlignY=40&animation=fadeIn" alt="header" width="100%" />
 
-<a href="https://github.com/USERNAME">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=720&lines=Hi+%F0%9F%91%8B%2C+I'm+Lu%C3%ADs;Third-year+BSc+student+%40+FEUP;Informatics+and+Computing+Engineering;Exploring+AI+and+autonomous+systems;Also+into+software+engineering+and+full-stack" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=720&lines=Hi+%F0%9F%91%8B%2C+I'm+Lu%C3%ADs;Third-year+BSc+student+%40+FEUP;Informatics+and+Computing+Engineering;Curious+and+still+exploring;Always+learning+something+new" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=USERNAME&label=Profile%20views&color=7c3aed&style=for-the-badge" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=luis-torrao-feup&label=Profile%20views&color=7c3aed&style=for-the-badge&base=179" alt="Profile views" />
 
 </div>
 
@@ -16,22 +14,21 @@
 
 ## 👨‍💻 About me
 
-I'm a third-year student of **Informatics and Computing Engineering** at **FEUP** (Porto, Portugal). My main focus is **Artificial Intelligence and autonomous systems**, but I also enjoy building things across the stack, from embedded boards to full-stack apps.
+I'm a third-year student of **Informatics and Computing Engineering** at **FEUP** (Porto, Portugal). I'm still exploring the different areas of tech to figure out what I enjoy the most, building projects and learning along the way.
 
 - 🎓 Studying at **FEUP – University of Porto**
-- 🤖 Focused on **AI and autonomous systems**
-- 🌐 Exploring **software engineering** and **full-stack development**
-- 🔌 **Fa Feup** Autonomy and Control department leader
+- 🔭 Exploring different areas of software and computing
+- 🌱 Always versatile and inovative, open to learning and to new projects
 
 <br/>
 
 ## 🤝 Connect with me
 
 <p>
-  <a href="https://linkedin.com/in/lu%C3%ADs%20torr%C3%A3o"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/lu%C3%ADs-torr%C3%A3o-b7ba91448/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://fb.com/luis.torrao.94"><img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
   <a href="https://instagram.com/torradinhasss"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://discord.gg/491345905367384076"><img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://discord.com/users/491345905367384076"><img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 </p>
 
 <br/>
@@ -71,19 +68,6 @@ I'm a third-year student of **Informatics and Computing Engineering** at **FEUP*
   <img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/ARDUINO-00878F?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
 </p>
-
-<br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/USERNAME">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed" alt="GitHub stats" />
-  </a>
-  <a href="https://github.com/USERNAME">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa" alt="Top languages" />
-  </a>
-</div>
 
 <br/>
 
